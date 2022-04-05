@@ -115,7 +115,7 @@
             </div>
   
             <div class="wrapper-left-elements">
-              <a href="includes/logout.php" style="margin-top: 4px"><strong>Logout</strong></a>
+              <a href="includes/logout.php" style="margin-top: 4px"><strong style="color:red;">Logout</strong></a>
             </div>
           </div>
           </a>

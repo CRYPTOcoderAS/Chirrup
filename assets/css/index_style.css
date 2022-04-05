@@ -1,7 +1,7 @@
 body{
 	margin: 0;
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-	background-color: white;
+	background-color: rgb(12, 9, 9);
 }
 .twt-main{
 	height: 100%;

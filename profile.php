@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/css/profile_style.css?v=<?php echo time(); ?>">
   
-    <link rel="shortcut icon" type="image/png" href="assets/images/twitter.svg"> 
+    <link rel="shortcut icon" type="image/png" href="assets/images/logo.jpg"> 
    
 </head>
 <body>
@@ -47,7 +47,7 @@
         <div class="sidebar-left">
           <div class="grid-sidebar" style="margin-top: 12px">
             <div class="icon-sidebar-align">
-              <img src="<?php echo BASE_URL . "/assets/images/twitter-logo.png"; ?>" alt="" height="30px" width="30px" />
+              <img src="<?php echo BASE_URL . "/assets/images/logo.jpg"; ?>" alt="" height="30px" width="30px" />
             </div>
           </div>
 

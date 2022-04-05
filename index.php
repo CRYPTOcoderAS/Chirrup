@@ -19,14 +19,14 @@
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/all.min.css">
 
-		<link rel="shortcut icon" type="image/png" href="assets/images/twitter.svg"> 
+		<link rel="shortcut icon" type="image/png" href="assets/images/logo.jpg"> 
 	</head>
 <body>
 <main class="twt-main">
             <section class="twt-login">
                 <?php include 'includes/login.php';  ?>
                     <div class="slow-login">
-                        <img class="login-bird" src="<?php echo BASE_URL . "/assets/images/twitter-logo.png"; ?>" alt="bird">
+                        <img class="login-bird" src="<?php echo BASE_URL . "/assets/images/logo.jpg"; ?>" alt="bird">
                         <button class="login-small-display signin-btn pri-btn">Log in</button>
                         <span class="front-para">See what’s happening in the world right now</span>
                         <span class="join">Join Chirrup Today.</span>

@@ -24,7 +24,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Status | Chirrup</title>
     <base href="<?php echo BASE_URL; ?>">
-    <link rel="shortcut icon" type="image/png" href="assets/images/twitter.svg"> 
+    <link rel="shortcut icon" type="image/png" href="assets/images/logo.jpg"> 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/all.min.css">
     <link rel="stylesheet" href="assets/css/home_style.css?v=<?php echo time(); ?>">
@@ -40,7 +40,7 @@
         <div class="sidebar-left">
           <div class="grid-sidebar" style="margin-top: 12px">
             <div class="icon-sidebar-align">
-              <img src="<?php echo BASE_URL . "/assets/images/twitter-logo.png"; ?>" alt="" height="30px" width="30px" />
+              <img src="<?php echo BASE_URL . "/assets/images/logo.jpg"; ?>" alt="" height="30px" width="30px" />
             </div>
           </div>
 

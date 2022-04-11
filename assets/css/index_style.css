@@ -52,9 +52,9 @@ body{
 	line-height: 20px;
 }
 .login-btn{
-	background-color: #fff;
+	background-color: #212529;
     border: 1px solid #1da1f2;
-	color: #1da1f2;
+	color: #fff;
 	border-radius: 80px;
 	font-weight: 700;
 	font-size: 14px;
@@ -65,7 +65,7 @@ body{
 
 }
 .login-btn:hover {
-	background-color: #1DA1F225;
+	background-color: #060707;
     transition: all 0.2s;
 }
 
@@ -102,14 +102,14 @@ body{
 }
 .signup-btn{
 	margin-top: 15px;
-	background-color: #1da1f2;
+	background-color: #212529;
     border: 1px solid #1da1f2;
 	color: #fff;
 }
 .signin-btn{
-	background-color: #fff;
-    border: 1px solid #1da1f2;
-	color: #1da1f2;
+	background-color: #212529;
+    border: 1px solid #212529;
+	color: #fff;
 }
 
 .pri-btn{
@@ -128,7 +128,7 @@ body{
 	background-position:0px -140px;
 	width: 50%;
 	height: 100vh;
-	background-color: #1da1f2;
+	background-color: #212529;
 	float: left;
 }
 .features-div{

@@ -26,7 +26,7 @@ header('location: index.php');
     <!-- time function to force css file to reload -->
     
     <link rel="stylesheet" href="assets/css/profile_style.css?v=<?php echo time(); ?>">
-    <link rel="shortcut icon" type="image/png" href="assets/images/logo.jpg"> 
+    <link rel="shortcut icon" type="image/png" href="assets/images/logo.png"> 
    
 </head>
 <body>
@@ -38,7 +38,7 @@ header('location: index.php');
         <div class="sidebar-left">
           <div class="grid-sidebar" style="margin-top: 12px">
             <div class="icon-sidebar-align">
-              <img src="<?php echo BASE_URL . "/assets/images/logo.jpg"; ?>" alt="" height="30px" width="30px" />
+              <img src="<?php echo BASE_URL . "/assets/images/logo.png"; ?>" alt="" height="130px" width="230px" />
             </div>
           </div>
 

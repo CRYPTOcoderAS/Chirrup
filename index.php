@@ -19,7 +19,7 @@
         <link rel="stylesheet" href="assets/css/bootstrap.min.css">
         <link rel="stylesheet" href="assets/css/all.min.css">
 
-		<link rel="shortcut icon" type="image/png" href="assets/images/logo.jpg"> 
+		<link rel="shortcut icon" type="image/png" href="assets/images/logo.png"> 
 	</head>
 <body>
 <main class="twt-main">

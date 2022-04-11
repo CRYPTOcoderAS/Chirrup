@@ -40,7 +40,7 @@
         <div class="sidebar-left">
           <div class="grid-sidebar" style="margin-top: 12px">
             <div class="icon-sidebar-align">
-              <img src="<?php echo BASE_URL . "/assets/images/logo.jpg"; ?>" alt="" height="30px" width="30px" />
+              <img src="<?php echo BASE_URL . "/assets/images/logo.png"; ?>" alt="" height="130px" width="230px" />
             </div>
           </div>
 
@@ -146,7 +146,7 @@
   
 
       <div class="grid-posts">
-        <div class="border-right">
+        <div>
           <div class="grid-toolbar-center">
             <div class="center-input-search">
               
@@ -322,6 +322,7 @@
 
   .container {
     padding-left: 55px;
+    background-color: #525E75;
   }
 
 </style>

@@ -38,7 +38,7 @@ header('location: index.php');
         <div class="sidebar-left">
           <div class="grid-sidebar" style="margin-top: 12px">
             <div class="icon-sidebar-align">
-              <img src="<?php echo BASE_URL . "/assets/images/logo.png"; ?>" alt="" height="130px" width="230px" />
+              <img  src="<?php echo BASE_URL . "/assets/images/logo.png"; ?>" alt="" height="100px" width="230px" />
             </div>
           </div>
 

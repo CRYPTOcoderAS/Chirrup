@@ -1,6 +1,7 @@
 
  <p align="center">
-  <img align= "center" src="https://drive.google.com/uc?export=view&id=1WgZHCHX8LbjJODPuKHmz_QgTqYGi50Yo" style=" align: center ; width: 650px;  height: 320px"  title="Akshat Sachan" />
+ 
+ <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/download.gif?raw=true" style=" align: center " width="300" height="300" />
   
 </p>
 

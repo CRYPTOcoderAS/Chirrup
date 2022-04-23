@@ -1,7 +1,7 @@
 
  <p align="center">
  
- <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/download.gif?raw=true" style=" align: center " width="300" height="300" />
+ <img align="centre" alt="GIF" src="https://www.linkpicture.com/q/akshat_bg.jpg" style=" align: center " width="300" height="300" />
   
 </p>
 

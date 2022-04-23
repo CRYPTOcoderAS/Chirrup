@@ -1,7 +1,8 @@
 
  <p align="center">
  
- <img align="centre" alt="GIF" src="https://www.linkpicture.com/q/akshat_bg.jpg" style=" align: center " width="300" height="300" />
+ 
+ <img align= "center" src="https://www.linkpicture.com/q/akshat_bg.jpg" style=" align: center ; width: 650px;  height: 320px"  title="Akshat Sachan" />
   
 </p>
 

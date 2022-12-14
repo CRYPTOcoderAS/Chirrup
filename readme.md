@@ -1,8 +1,11 @@
 
  <p align="center">
+
+ <a href='https://www.linkpicture.com/view.php?img=LPic6399cd8f9d1fd1612556535'>
+<img src='https://www.linkpicture.com/q/akshat_bg_1.jpg' type='image'  style=" align: center ; width: 650px;  height: 320px"  title="Akshat Sachan" >
+</a>
  
  
- <img align= "center" src="https://www.linkpicture.com/q/akshat_bg.jpg" style=" align: center ; width: 650px;  height: 320px"  title="Akshat Sachan" />
   
 </p>
 

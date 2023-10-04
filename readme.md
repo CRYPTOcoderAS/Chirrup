@@ -1,8 +1,8 @@
 
  <p align="center">
 
- <a href='https://www.linkpicture.com/view.php?img=LPic6399cd8f9d1fd1612556535'>
-<img src='https://www.linkpicture.com/q/akshat_bg_1.jpg' type='image'  style=" align: center ; width: 650px;  height: 320px"  title="Akshat Sachan" >
+![Akshat Sachan](https://drive.google.com/uc?id=1ytvxXV_6FFZzt71OToGbZ9c4I0TOpwhQ)
+
 </a>
  
  

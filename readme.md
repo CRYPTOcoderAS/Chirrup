@@ -1,7 +1,7 @@
 
  <p align="center">
 
-![Akshat Sachan](https://drive.google.com/uc?id=1ytvxXV_6FFZzt71OToGbZ9c4I0TOpwhQ)
+  ![Akshat Sachan](https://drive.google.com/uc?id=1ytvxXV_6FFZzt71OToGbZ9c4I0TOpwhQ)
 
 </a>
  
